@@ -1,0 +1,9 @@
+//big-oh rule book
+rule1: worst case
+	rule2: remove constants
+		rule3: different terms for inputs
+			rule4: drop non dominants
+
+example for worst case: for finding an element in an array, if element is at 0 index best case is O(1), if at last index the worst case is O(n),always consider worst case in terms of
+scalability.
+
