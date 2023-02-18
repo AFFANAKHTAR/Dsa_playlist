@@ -1,0 +1,4 @@
+DATA STRUCTURE + ALGORITHM = PROGRAM
+//o(n!)-will study travelling salesman problem or tsp in detail
+
+TO LEARN MORE ON BIGOH GO TO- bigocheatsheet.com
