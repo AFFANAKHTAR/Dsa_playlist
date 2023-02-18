@@ -1,0 +1,12 @@
+rule3: different terms for inputs
+big0 -> O(n + m)
+
+function abc(input1, input2){
+    input1.foreach(function(input1){
+        console.log(input1);
+    });
+
+    input2.foreach(function(input2){
+    console.log(input2);
+    });    
+}
